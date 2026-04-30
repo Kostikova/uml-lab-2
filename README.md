@@ -101,6 +101,12 @@ Plan -->> UI: tasks
 UI -->> User: показ плану
 ```
 
+## Images
+
+![Use Case](usecase.png)
+![Class Diagram](class.png)
+![Sequence Diagram](sequence.png)
+
 
 
 ## Traceability Matrix
